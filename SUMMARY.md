@@ -3,7 +3,7 @@
 * [1  相关概述](README.md)
 * [2  支持环境](chapter1.md)
 * [3  操作说明](1.md)
-  * [3.1  编辑搬界面](31-bian-ji-ban-jie-mian.md)
+  * [3.1  编辑版界面](31-bian-ji-ban-jie-mian.md)
   * 3.2  顶部工具栏
     * 3.2.1  截屏
     * 3.2.2  导览
