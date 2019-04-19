@@ -8,7 +8,7 @@
     * [3.2.1  截屏](32-ding-bu-gong-ju-lan/321-jie-ping.md)
     * [3.2.2  导览](32-ding-bu-gong-ju-lan/322-dao-lan.md)
     * [3.2.3  测量](32-ding-bu-gong-ju-lan/323-ce-liang.md)
-    * 3.2.4  标签
+    * [3.2.4  标签](32-ding-bu-gong-ju-lan/324-biao-qian.md)
     * 3.2.5  热点
     * 3.2.6  背景音乐
     * 3.2.7  导向图
