@@ -4,9 +4,9 @@
 * [2  支持环境](chapter1.md)
 * [3  操作说明](1.md)
   * [3.1  编辑版界面](31-bian-ji-ban-jie-mian.md)
-  * 3.2  顶部工具栏
-    * 3.2.1  截屏
-    * 3.2.2  导览
+  * [3.2  顶部工具栏](32-ding-bu-gong-ju-lan.md)
+    * [3.2.1  截屏](32-ding-bu-gong-ju-lan/321-jie-ping.md)
+    * [3.2.2  导览](32-ding-bu-gong-ju-lan/322-dao-lan.md)
     * 3.2.3  测量
     * 3.2.4  标签
     * 3.2.5  热点
