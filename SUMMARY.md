@@ -18,7 +18,7 @@
     * [3.3.1  热点管理](1/32-ding-bu-gong-ju-lan/331-re-dian-guan-li.md)
     * [3.3.2  显示管理](1/32-ding-bu-gong-ju-lan/332-xian-shi-guan-li.md)
     * [3.3.3  测量管理](1/32-ding-bu-gong-ju-lan/333-ce-liang-guan-li.md)
-    * 3.3.4  标签管理
+    * [3.3.4  标签管理](1/32-ding-bu-gong-ju-lan/334-biao-qian-guan-li.md)
     * 3.3.5  截屏管理
   * [3.4  其他功能列表](1/bian-ji.md)
     * 3.4.1  视图
