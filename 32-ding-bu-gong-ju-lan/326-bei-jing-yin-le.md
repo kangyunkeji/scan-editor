@@ -8,11 +8,9 @@
 
 * 上传背景音乐页面如下图所示。
 
-![](https://uploader.shimo.im/f/1eaxJygguIg5YUZg.png!thumbnail)
+![](/assets/云空间 - 内容详情页 - 编辑功能 - 背景音乐.png)
 
 * 相关操作动态图如下图所示。
 
-![](https://uploader.shimo.im/f/35Ankw80GqYiYBtx.gif)
-
-
+![](/assets/编辑版GIF图/背景音乐.gif)
 
