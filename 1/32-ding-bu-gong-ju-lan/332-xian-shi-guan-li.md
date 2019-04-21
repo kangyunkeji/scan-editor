@@ -6,11 +6,9 @@
 
 * 显示管理如下图所示。
 
-![](https://uploader.shimo.im/f/YakC6QorHAcfxMIi.png!thumbnail)
+![](/assets/编辑平台用图/云空间 - 内容详情页 - 编辑功能 - 显示控制.png)
 
 * 相关操作动态图如下图所示。
 
-![](https://uploader.shimo.im/f/ubGhVmlFkw0AK5Nx.gif)
-
-
+![](/assets/编辑版GIF图/显示管理.gif)
 
