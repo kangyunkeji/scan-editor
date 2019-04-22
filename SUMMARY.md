@@ -20,7 +20,7 @@
     * [3.3.3  测量管理](1/32-ding-bu-gong-ju-lan/333-ce-liang-guan-li.md)
     * [3.3.4  标签管理](1/32-ding-bu-gong-ju-lan/334-biao-qian-guan-li.md)
     * [3.3.5  截屏管理](1/32-ding-bu-gong-ju-lan/335-jie-ping-guan-li.md)
-  * [3.4  其他功能列表](1/bian-ji.md)
+  * [3.4  其他功能](1/bian-ji.md)
     * [3.4.1  视图](1/bian-ji/341-shi-tu.md)
     * [3.4.2  发布](1/bian-ji/342-fa-bu.md)
 
